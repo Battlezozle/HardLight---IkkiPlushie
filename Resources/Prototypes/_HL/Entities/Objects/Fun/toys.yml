@@ -795,7 +795,7 @@
     - Payload
     - PlushieLizard
 
-- type: entity
+- type: entity  # HL
   parent: BasePlushie
   id: PlushieSadBirb
   name: sad birb plushie
@@ -807,14 +807,14 @@
   - type: MeleeWeapon
     wideAnimationRotation: 180
     soundHit:
-      path: Audio\_Starlight\Voice\Avali\avali_cry.ogg
+      path: Audio/_Starlight/Voice/Avali/avali_cry.ogg
   - type: Speech
     speechVerb: Reptilian # for pais (In the secret stash)
   - type: Tag
     tags:
     - ClothMade
     - Payload
-    - PlushieLizard
+    - PlushieLizard # HL
 
 - type: entity
   parent: BasePlushie
