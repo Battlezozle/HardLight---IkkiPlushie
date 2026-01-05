@@ -807,7 +807,7 @@
   - type: MeleeWeapon
     wideAnimationRotation: 180
     soundHit:
-      path: Audio/_Starlight/Voice/Avali/avali_cry.ogg
+      path: /Audio/_Starlight/Voice/Avali/avali_cry.ogg
   - type: Speech
     speechVerb: Reptilian # for pais (In the secret stash)
   - type: Tag
